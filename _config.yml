@@ -1,0 +1,13 @@
+theme: jekyll-theme-minimal
+title: zehao's personal website
+email: zehao.kou@campus.technion.ac.il
+description: >- # 这是一个简短的网站描述
+  一个使用 Jekyll 和 GitHub Pages 搭建的个人网站。
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. https://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+theme: minima
+plugins:
+  - jekyll-feed
