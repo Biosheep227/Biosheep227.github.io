@@ -42,13 +42,13 @@ header nav ul li a {
   text-decoration: none;
 }
 
-footer {
+/* footer {
   background-color: #35424a;
   color: white;
   text-align: center;
   padding: 0px;
   margin-top: 0px;
-}
+} */
 
 .background-image {
   background-image: url("https://s2.loli.net/2023/04/18/DEihkPsHvnVQ9Yy.jpg");
