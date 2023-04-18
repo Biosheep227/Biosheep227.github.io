@@ -76,7 +76,7 @@ header nav ul li a {
   height: 100%;
   width: 100%;
   position: fixed;
-  top: 50;
+  top: 100px;
   left: 0;
 }
 
