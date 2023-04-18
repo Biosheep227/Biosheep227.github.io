@@ -74,6 +74,10 @@ header nav ul li a {
   justify-content: space-around;
   align-items: center;
   height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 50;
+  left: 0;
 }
 
 .icon-link {
